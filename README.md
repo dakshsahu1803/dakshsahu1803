@@ -98,7 +98,4 @@ I’m a final-year B.Tech CSE student passionate about solving real-world proble
 ---
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
