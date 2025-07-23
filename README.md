@@ -51,6 +51,12 @@ I’m a final-year B.Tech CSE student passionate about solving real-world proble
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
 </div>
 
 <br/>
@@ -62,6 +68,16 @@ I’m a final-year B.Tech CSE student passionate about solving real-world proble
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" />
   <img width="15" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="40" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Pages" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="40" alt="Render" />
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="40" alt="Canva" />
 </div>
 
 <br/>
