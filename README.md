@@ -6,11 +6,11 @@
 
 I’m a final-year B.Tech CSE student passionate about solving real-world problems through intelligent software.
 
-🔭 I specialize in building **production-grade Java Spring Boot APIs**, integrating them with clean UI, and applying **ML/AI** models in projects.
+🔭 I specialize in building <b>production-grade Java Spring Boot APIs</b>, integrating them with clean UI, and applying <b>ML/AI</b> models in projects.
 
-- 💼 Interned at **CodSoft**, where I built Spring Boot APIs handling 5000+ daily requests with 99.9% uptime.
+- 💼 Interned at <b>CodSoft</b>, where I built Spring Boot APIs handling 5000+ daily requests with 99.9% uptime.
 - 💡 Developed end-to-end solutions including ML prediction systems, satellite segmentation models, and e-commerce platforms.
-- 📊 Knight @ LeetCode with **400+ problems** solved (Max Rating 1884).
+- 📊 Knight @ LeetCode with <b>400+ problems</b> solved (Max Rating 1884).
 - 🌱 Currently learning: Spring Security, Microservices, Docker & AIML Deployment.
 
 ---
@@ -55,6 +55,17 @@ I’m a final-year B.Tech CSE student passionate about solving real-world proble
 
 <br/>
 
+#### 🛠️ DevOps & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="40" />
+</div>
+
+<br/>
+
 #### 📝 Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -94,8 +105,3 @@ I’m a final-year B.Tech CSE student passionate about solving real-world proble
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
-
----
-
-<br clear="both">
-###
