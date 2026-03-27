@@ -10,8 +10,8 @@ I’m a final-year B.Tech CSE student passionate about solving real-world proble
 
 - 💼 Interned at <b>CodSoft</b>, where I built Spring Boot APIs handling 5000+ daily requests with 99.9% uptime.
 - 💡 Developed end-to-end solutions including ML prediction systems, satellite segmentation models, and e-commerce platforms.
-- 📊 Knight @ LeetCode with <b>400+ problems</b> solved (Max Rating 1884).
-- 🌱 Currently learning: Spring Security, Microservices, Docker & AIML Deployment.
+- 📊 Knight @ LeetCode with <b>500+ problems</b> solved (Max Rating 1884).
+- 🌱 Currently learning: Agentic AI,Spring Security, Microservices, Docker & AIML Deployment.
 
 ---
 
@@ -86,22 +86,22 @@ I’m a final-year B.Tech CSE student passionate about solving real-world proble
 
 ---
 
-### 🔗 Connect with Me
+🔗 Connect with Me
 
 <div align="left">
   <a href="mailto:dakshsahu843@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://linkedin.com/in/daksh-sahu-65828324b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://github.com/dakshsahu1803" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://leetcode.com/u/daksh_sahu_1803/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&logo=leetcode&color=FFA116&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://portfolio-daksh-sahu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
