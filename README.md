@@ -1,17 +1,18 @@
-<h2 align="left">Hi 👋! My name is Daksh Sahu and I'm a Full-Stack & AIML Engineer from Delhi, India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Daksh Sahu and I'm a Full-Stack, AI & Platform Engineer from India 🇮🇳</h2>
 
 ###
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder gif" />
 
-I’m a final-year B.Tech CSE student passionate about solving real-world problems through intelligent software.
+I’m a final-year B.Tech CSE student passionate about building scalable AI-powered platforms and intelligent real-world software systems.
 
-🔭 I specialize in building <b>production-grade Java Spring Boot APIs</b>, integrating them with clean UI, and applying <b>ML/AI</b> models in projects.
+🔭 Currently working at <b>Kadeep Technologies</b> as an <b>SDE - AI</b>, building agentic AI systems, multi-agent workflows, localization QA platforms, and enterprise-grade AI tooling.
 
 - 💼 Interned at <b>CodSoft</b>, where I built Spring Boot APIs handling 5000+ daily requests with 99.9% uptime.
-- 💡 Developed end-to-end solutions including ML prediction systems, satellite segmentation models, and e-commerce platforms.
+- ⚡ Skilled in <b>MERN Stack, TypeScript, Java, Spring Boot, Next.js, Redis, Docker & scalable backend architectures</b>.
+- 🤖 Experienced in building <b>AI agents, RAG workflows, automation systems, ML models & intelligent platform experiences</b>.
 - 📊 Knight @ LeetCode with <b>500+ problems</b> solved (Max Rating 1884).
-- 🌱 Currently learning: Agentic AI,Spring Security, Microservices, Docker & AIML Deployment.
+- 🌱 Currently exploring: Agentic AI, System Design, Microservices, Cloud Deployment & AI Infrastructure.
 
 ---
 
