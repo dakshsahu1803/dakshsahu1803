@@ -3,10 +3,13 @@
 Founding SDE at KaDeep AI, an agentic AI platform for enterprise QA. I work at the intersection of backend engineering and applied AI — designing Spring Boot services, building agentic and RAG workflows, and shipping features straight to production.
 
 🔭 Currently building agentic AI systems, multi-agent workflows, and enterprise QA tooling at KaDeep AI
+
 💼 Previously: backend intern @ CodSoft — shipped Spring Boot APIs handling 5,000+ daily requests at 99.9% uptime
 
 🤖 Focused on agentic AI, RAG pipelines, and production-grade backend systems
+
 📊 LeetCode Knight (top 3%) — 500+ problems solved, max rating 1884
+
 🌱 Currently exploring: system design at scale, agent orchestration, cloud deployment for AI workloads
 
 ---
