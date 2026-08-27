@@ -1,18 +1,13 @@
-<h2 align="left">Hi 👋! My name is Daksh Sahu and I'm a Full-Stack, AI & Platform Engineer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋, I'm Daksh Sahu — Founding SDE building agentic AI systems and backend infrastructure</h2> <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder gif" />
 
-###
+Founding SDE at KaDeep AI, an agentic AI platform for enterprise QA. I work at the intersection of backend engineering and applied AI — designing Spring Boot services, building agentic and RAG workflows, and shipping features straight to production.
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder gif" />
+🔭 Currently building agentic AI systems, multi-agent workflows, and enterprise QA tooling at KaDeep AI
+💼 Previously: backend intern @ CodSoft — shipped Spring Boot APIs handling 5,000+ daily requests at 99.9% uptime
 
-I’m a final-year B.Tech CSE student passionate about building scalable AI-powered platforms and intelligent real-world software systems.
-
-🔭 Currently working at <b>Kadeep Technologies</b> as an <b>SDE - AI</b>, building agentic AI systems, multi-agent workflows, localization QA platforms, and enterprise-grade AI tooling.
-
-- 💼 Interned at <b>CodSoft</b>, where I built Spring Boot APIs handling 5000+ daily requests with 99.9% uptime.
-- ⚡ Skilled in <b>MERN Stack, TypeScript, Java, Spring Boot, Next.js, Redis, Docker & scalable backend architectures</b>.
-- 🤖 Experienced in building <b>AI agents, RAG workflows, automation systems, ML models & intelligent platform experiences</b>.
-- 📊 Knight @ LeetCode with <b>500+ problems</b> solved (Max Rating 1884).
-- 🌱 Currently exploring: Agentic AI, System Design, Microservices, Cloud Deployment & AI Infrastructure.
+🤖 Focused on agentic AI, RAG pipelines, and production-grade backend systems
+📊 LeetCode Knight (top 3%) — 500+ problems solved, max rating 1884
+🌱 Currently exploring: system design at scale, agent orchestration, cloud deployment for AI workloads
 
 ---
 
@@ -32,8 +27,6 @@ I’m a final-year B.Tech CSE student passionate about building scalable AI-powe
 <div align="left">
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
