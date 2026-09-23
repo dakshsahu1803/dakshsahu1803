@@ -98,7 +98,5 @@ Founding SDE at KaDeep AI, an agentic AI platform for enterprise QA. I work at t
   <a href="https://leetcode.com/u/daksh_sahu_1803/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LeetCode&logo=leetcode&color=FFA116&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://portfolio-daksh-sahu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+  
 </div>
